@@ -1,11 +1,16 @@
 ---
-layout: post
 title: Welcome to Jekyll!
+date: 2018-12-07 00:00:00 Z
+categories:
+- jekyll
+tags:
+- jekyll
+- theme
+- yat
+layout: post
 subheading: hello world!
 author: Jeffrey
-categories: jekyll
 banner: https://bit.ly/32PAjtM
-tags: jekyll theme yat
 sidebar: []
 ---
 
