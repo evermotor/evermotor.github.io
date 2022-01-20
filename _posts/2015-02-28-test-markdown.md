@@ -1,6 +1,6 @@
 ---
 title: Test markdown
-date: 2015-02-28 00:00:00 Z
+date: 2015-02-28 03:00:00 +03:00
 categories:
 - markdown
 tags:
