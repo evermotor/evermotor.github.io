@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-date: 2018-12-07 00:00:00 Z
+date: 2018-12-07 03:00:00 +03:00
 categories:
 - jekyll
 tags:
